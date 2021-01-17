@@ -1,1 +1,3 @@
-# ohtu-2021-viikko1
+# Ohjelmistotuotanto 2021, viikko1
+
+![Github Actions](https://github.com/sallasal/ohtu-viikko1-s2020/workflows/Java%20CI%20with%20Gradle/badge.svg)

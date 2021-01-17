@@ -77,6 +77,7 @@ public class Varasto {
     }
 
     // --- Merkkijonoesitys Varasto-oliolle: ----
+    @Override
     public String toString() {
         return ("saldo = " + saldo + ", vielä tilaa " + paljonkoMahtuu());
     }

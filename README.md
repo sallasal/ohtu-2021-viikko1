@@ -4,4 +4,4 @@
 
 [![codecov](https://codecov.io/gh/sallasal/ohtu-2021-viikko1/branch/main/graph/badge.svg?token=UDJHKQNTKP)](https://codecov.io/gh/sallasal/ohtu-2021-viikko1)
 
-https://github.com/sallasal/Ohtu-k2021
+Varsinaiset isommat palautukset ovat erillisessä repositoriossa: https://github.com/sallasal/Ohtu-k2021

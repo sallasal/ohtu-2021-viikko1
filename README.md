@@ -6,4 +6,4 @@
 
 Varsinaiset isommat palautukset ovat erillisessä repositoriossa: https://github.com/sallasal/Ohtu-k2021
 
-Myös git-kokeiluita tehty tässä kansiossa.
+Myös git-kokeiluita tehty tässä kansiossa esimerkiksi viikoilla 6 ja 7.
